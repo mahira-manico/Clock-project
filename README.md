@@ -249,7 +249,7 @@ This project demonstrates:
 **Mahira Manico**
 
 - GitHub: [@mahira-manico](https://github.com/mahira-manico)
-- Project Link: [https://github.com/mahira-manico/Clock-project](https://github.com/mahira-manico/clock_project)
+- Project Link: [https://github.com/mahira-manico/clock_project](https://github.com/mahira-manico/clock_project)
 
 ## 📄 License
 
